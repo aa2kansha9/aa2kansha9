@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aa2kansha9&label=Profile%20views&color=0e75b6&style=flat" alt="aa2kansha9" /> </p>
 
-- 🌱 I’m currently learning **Spring and Hibernate**
+- 🌱 I’m currently learning **Spring and Hibernate also getting started with Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
