@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakansha Parab</h1>
 <h3 align="center">Java | Data Structures & Algorithms | MERN Stack | Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aa2kansha9&label=Profile%20views&color=0e75b6&style=flat" alt="aa2kansha9" /> </p>
+
 
 - 🌱 I’m currently learning **Spring and Hibernate also getting started with Machine Learning**
 
